@@ -1,0 +1,41 @@
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, th, td {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Lato",sans-serif;
+    font-size: 16px;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+
+
+
+body {
+    color: #222;
+    cursor: auto;
+    font-family: "Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+
+html, body {
+    font-size: 100%;
+}
+/*class  div header */
+
+.top-bar, .top-bar-section ul li, .top-bar-section li:not(.has-form) a:not(.button) {
+    background: #19415d none repeat scroll 0% 0%;
+}
+
+
+
+.bourse_header{
+    
+}
